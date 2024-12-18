@@ -18,7 +18,8 @@
 #### 3. Страница с чатами и страница чата
 ![14-4](https://github.com/user-attachments/assets/9d2b97d7-b314-4c93-b03f-ad274754f246)
 
-![14-4](https://github.com/user-attachments/assets/64770e2a-5fb6-456d-a1e1-c0c431fd9c41)
+![14-2](https://github.com/user-attachments/assets/a6d19f16-b9d5-4d6a-8fdc-9dfd59b7b5d7)
+
 
 #### 4. Итог
 
