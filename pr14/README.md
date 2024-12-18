@@ -1,16 +1,12 @@
-# pr14
+Практическая работа 15.
+=================================
+### ФИО: Калагов Марат Владимирович | Группа: ЭФБО-01-22
+### Дисциплина: Программирование корпоративных систем
 
-A new Flutter project.
+***
 
-## Getting Started
+Результат:
 
-This project is a starting point for a Flutter application.
+![15](https://github.com/user-attachments/assets/71c198e9-f559-45f9-bbb2-96e23d99259c)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![15-2](https://github.com/user-attachments/assets/855bb401-4d46-4fe2-af85-267bab1f6550)
